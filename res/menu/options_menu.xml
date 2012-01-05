@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+		android:id="@+id/add"
+		android:title="@string/add"
+		android:alphabeticShortcut="@string/add_shortcut"
+		android:icon="@android:drawable/ic_menu_add"/>
+	<item 
+		android:id="@+id/delete_done"
+		android:title="@string/delete_done"
+		android:alphabeticShortcut="@string/delete_done_shortcut"
+		android:icon="@android:drawable/ic_menu_delete"/>
+</menu>

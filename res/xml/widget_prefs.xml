@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/settings">
+  	<EditTextPreference 
+      	android:key="@string/nof_tasks" 
+       	android:title="@string/nof_tasks"
+       	android:summary="@string/nof_tasks_desc"/>
+    <CheckBoxPreference
+       	android:key="@string/no_dateless_tasks" 
+       	android:title="@string/no_dateless_tasks"
+       	android:summary="@string/no_dateless_tasks_desc"/>
+</PreferenceScreen>

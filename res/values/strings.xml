@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">GTask Manager</string>
+    <string name="empty">Keine Tasks!</string>
+    <string name="add">Neu</string>
+    <string name="add_shortcut">a</string>
+    <string name="title">Titel</string>
+    <string name="description">Beschreibung</string>
+    <string name="duedate">Ohne Fälligkeitsdatum</string>
+    <string name="isdone">Erledigt</string>
+    <string name="save">Speichern</string>
+    <string name="detail">Detail</string>
+    <string name="detail_shortcut">i</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="edit_shortcut">e</string>
+    <string name="exit">Verwerfen</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_shortcut">d</string>
+    <string name="delete_done">Erledigte Löschen</string>
+    <string name="delete_done_shortcut">c</string>
+    <string name="title_missing">Bitte Titel angeben</string>
+    <string name="save_error">Task konnte nicht gespeichert werden</string>
+    <string name="nof_tasks">Anzahl Aufgaben</string>
+    <string name="nof_tasks_desc">Anzahl der Aufgaben die im Widget angezeigt werden</string>
+    <string name="no_dateless_tasks">Nur termingebundene Aufgaben</string>
+    <string name="no_dateless_tasks_desc">Aufgaben ohne Fälligkeitsdatum werden ausgeblendet</string>
+    <string name="settings">GTaskManager Widget Einstellungen</string>
+</resources>
